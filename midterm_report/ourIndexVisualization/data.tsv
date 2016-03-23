@@ -1,0 +1,41 @@
+category	hour	value
+Watch	FlappySwift	500
+Watch	OpenBird	246.1538462
+Watch	SprityBird	169.2307692
+Watch	OpenFlappyBird	57.69230769
+Watch	clumsy_bird	334.6153846
+Fork	FlappySwift	470
+Fork	OpenBird	215.851602
+Fork	SprityBird	136.5935919
+Fork	OpenFlappyBird	86.846543
+Fork	clumsy_bird	292.5801012
+Contributors	FlappySwift	360
+Contributors	OpenBird	176.92307692
+Contributors	SprityBird	215.3846154
+Contributors	OpenFlappyBird	176.92307692
+Contributors	clumsy_bird	407.6923077
+Commits	FlappySwift	672
+Commits	OpenBird	350.877193
+Commits	SprityBird	131.5789474
+Commits	OpenFlappyBird	280.7017544
+Commits	clumsy_bird	1254.385965
+Pull requests	FlappySwift	540
+Pull requests	OpenBird	95.2173913
+Pull requests	SprityBird	146.95652174
+Pull requests	OpenFlappyBird	51.73913043
+Pull requests	clumsy_bird	260.8695652
+Comments	FlappySwift	430
+Comments	OpenBird	76.92307692
+Comments	SprityBird	384.6153846
+Comments	OpenFlappyBird	230.7692308
+Comments	clumsy_bird	307.6923077
+Size	FlappySwift	420
+Size	OpenBird	68
+Size	SprityBird	255
+Size	OpenFlappyBird	160
+Size	clumsy_bird	80
+Language	FlappySwift	440
+Language	OpenBird	227.2727273
+Language	SprityBird	318.1818182
+Language	OpenFlappyBird	500
+Language	clumsy_bird	409.0909091
